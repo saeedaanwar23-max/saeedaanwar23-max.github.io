@@ -23,7 +23,7 @@ description: "My Personal Blog" # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://saeedaanwar23-max"
+url: "https://github.com/saeedaanwar23-max"
 
 github:
   username: saeedaanwar.github.io # change to your GitHub username
