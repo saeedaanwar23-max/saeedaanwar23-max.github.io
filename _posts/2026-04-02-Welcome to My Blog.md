@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome to My Blog!"
 date: 2026-04-02
 categories: [Blog, Personal]
