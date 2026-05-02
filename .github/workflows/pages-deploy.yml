@@ -21,6 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           submodules: true
 
       - name: Setup Ruby
@@ -29,8 +30,12 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Build site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
 
