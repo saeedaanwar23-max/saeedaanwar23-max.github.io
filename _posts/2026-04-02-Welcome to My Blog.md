@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to My Blog!"
 date: 2026-04-02
-categories: [Welcome]
-tags: [intro, hello]
+categories: [Blog, Personal]
+tags: [welcome, introduction]
 ---
 
 # Assalam o Alaikum! 👋
