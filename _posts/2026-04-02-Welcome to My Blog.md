@@ -3,6 +3,9 @@ title: "Welcome to My Blog!"
 date: 2026-04-02 10:00:00 +0500
 categories: [Blog, Personal]
 tags: [welcome, introduction]
+image:
+  path: /assets/img/post1.jpg
+  alt: Welcome to my blog
 ---
 
 # Assalam o Alaikum! 👋
