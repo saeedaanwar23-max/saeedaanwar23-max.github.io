@@ -3,6 +3,9 @@ title: "My Journey to Getting Admission — Dreams, Pressure, and That One Resul
 date: 2026-04-04
 categories: [Education, Persona]
 tags: [admission, student-life, university]
+image:
+  path: /assets//Post 2. jpg.jpg
+  alt: Getting admission journey
 ---
 
 1. The Dream That Started It All
