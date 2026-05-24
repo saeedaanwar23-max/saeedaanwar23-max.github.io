@@ -3,9 +3,10 @@ layout: post
 title: "Studying from Home — When Home Became the Classroom" 
 date: 2026-04-14 12:00:00 +0500 
 categories: [Personal] 
-tags: [Home learning, online, student life]
-Studying From Home — When Home Became the Classroom
+tags: [home-learning, online, student-life]
 ---
+
+Studying From Home — When Home Became the Classroom
 When It All Started
 Studying from home is a completely different experience. When I first tried it, it felt impossible to concentrate. The sounds of the house, household tasks, family conversations — everything was different from a classroom. But slowly, I found a time and a corner where I could actually focus. Success does not come because of where you are — it comes because of your intention and your effort.
 Fighting Distractions
