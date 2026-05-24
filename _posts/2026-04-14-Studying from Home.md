@@ -2,8 +2,8 @@
 layout: post 
 title: "Studying from Home — When Home Became the Classroom" 
 date: 2026-04-14 12:00:00 +0500 
-categories: [Personal] 
-tags: [home-learning, online, student-life]
+categories: Personal 
+tags: Home-learning, online, student-life
 Studying From Home — When Home Became the Classroom
 ---
 When It All Started
