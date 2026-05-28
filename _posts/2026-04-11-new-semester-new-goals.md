@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "New Semester, New Goals — How I Started Fresh After My First Semester"
 date: 2026-04-11
 categories: [Education, Growth]
