@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "The Story of the Girl Who Never Gave Up" 
-Date: 2026-04-20 12:00:00 +0500 
+Date: 2026-04-20
 categories: [Inspiration] 
 tags: [real-story, inspiration, perseverance]
 ---
