@@ -1,8 +1,9 @@
 ---
 layout: post 
 title: "My Mother — My Greatest Strength" 
-Date: 2026-04-21 12:00:00 +0500 
-categories: [Personal] tags: [mother, family, support]
+Date: 2026-04-21
+categories: [Personal] 
+tags: [mother, family, support]
 ---  
 My Mother — My Greatest Strength
 What Was Never Said Out Loud
