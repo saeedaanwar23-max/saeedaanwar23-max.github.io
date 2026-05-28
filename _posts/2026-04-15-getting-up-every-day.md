@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Getting Up Every Day — When You Have No Motivation" 
-date: 2026-04-15 12:00:00 +0500 
+date: 2026-04-15
 categories: [Motivation] 
 tags: [motivation, daily-life, mindset]
 ---
