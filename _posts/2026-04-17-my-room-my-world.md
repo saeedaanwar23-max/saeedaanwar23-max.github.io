@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "My Room — My World" 
-date: 2026-04-17 12:00:00 +0500 
+date: 2026-04-17
 categories: [Personal] 
 tags: [personal-space, study-corner, student-life]
 ---
