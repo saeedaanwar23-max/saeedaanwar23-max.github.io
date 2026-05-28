@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "That Project Night — The Real Truth About Teamwork" 
-Date: 2026-04-22 12:00:00 +0500 
+Date: 2026-04-22
 categories: [Education] 
 tags: [group-project, teamwork, college-life]
 ---
