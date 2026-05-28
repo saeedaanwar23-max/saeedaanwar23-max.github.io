@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "When I Wanted to Quit — My Lowest Point as a Student"
 date: 2026-04-10
 categories: [Education, Personal]
