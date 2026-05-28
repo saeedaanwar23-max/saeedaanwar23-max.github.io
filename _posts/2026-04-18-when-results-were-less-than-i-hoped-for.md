@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "When Results Were Less Than I Hoped For" 
-date: 2026-04-18 12:00:00 +0500 
+date: 2026-04-18
 categories: [Challenges] 
 tags: [results, disappointment, resilience]
 ---
