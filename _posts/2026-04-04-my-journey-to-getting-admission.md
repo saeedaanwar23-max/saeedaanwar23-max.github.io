@@ -5,7 +5,7 @@ date: 2026-04-04
 categories: [Education, Persona]
 tags: [admission, student-life, university]
 image:
-  path: /assets//Post 2.jpg
+  path: /assets//Post-2.jpg
   alt: Getting admission journey
 ---
 
