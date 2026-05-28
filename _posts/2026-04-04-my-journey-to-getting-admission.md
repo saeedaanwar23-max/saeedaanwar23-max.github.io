@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My Journey to Getting Admission — Dreams, Pressure, and That One Result"
 date: 2026-04-04
 categories: [Education, Persona]
