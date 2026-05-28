@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Using Technology for Studying — Tools That Actually Helped Me"
 date: 2026-04-12
 categories: [Education, Study]
