@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "The Book That Changed How I Think" 
-date: 2026-04-16 12:00:00 +0500 
+date: 2026-04-16
 categories: [Education] 
 tags: [books, reading, self-growth]
 ---
