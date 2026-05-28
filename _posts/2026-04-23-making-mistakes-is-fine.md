@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Making Mistakes Is Fine — Hiding Them Is Not" 
-Date: 2026-04-23 12:00:00 +0500 
+Date: 2026-04-23
 categories: [Growth] 
 tags: [mistakes, learning, self-awareness]
 ---
