@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Building My Study Routine From Zero — What Worked and What Failed"
 date: 2026-04-07
 categories: [Education, Study]
