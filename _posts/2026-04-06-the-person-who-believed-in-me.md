@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Person Who Believed in Me Before I Believed in Myself"
 date: 2026-04-06
 categories: [Education, Inspiration]
