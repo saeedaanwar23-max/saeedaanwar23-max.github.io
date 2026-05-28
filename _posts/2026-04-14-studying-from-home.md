@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Studying from Home — When Home Became the Classroom" 
-date: 2026-04-14 12:00:00 +0500 
+date: 2026-04-14
 categories: [Personal] 
 tags: [home-learning, online, student-life]
 ---
