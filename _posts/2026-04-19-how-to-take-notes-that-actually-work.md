@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "How to Take Notes That Actually Work" 
-date: 2026-04-19 12:00:00 +0500 
+date: 2026-04-19
 categories: [Study] 
 tags: [notes, study-tips, revision]
 ---
