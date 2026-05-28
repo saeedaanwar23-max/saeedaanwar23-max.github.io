@@ -1,6 +1,6 @@
 ---
 title: "My Study Group — The Friends Who Made Learning Less Lonely"
-date: 2026-04-9
+date: 2026-04-09
 categories: [Education, Personal]
 tags: [friendship, teamwork, study, college-life]
 ---
