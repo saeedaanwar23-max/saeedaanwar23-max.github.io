@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "The Exam That Scared Me the Most — And How I Survived It"
-date: 2026-04-8
+date: 2026-04-08
 categories: [Education, Challenges]
 tags: [exams, challenges, first-semester, courage]
 ---
