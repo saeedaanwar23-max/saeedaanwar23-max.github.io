@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Why I Believe Every Girl Deserves an Education — My Personal Manifesto"
 date: 2026-04-13
 categories: [Education, Inspiration]
