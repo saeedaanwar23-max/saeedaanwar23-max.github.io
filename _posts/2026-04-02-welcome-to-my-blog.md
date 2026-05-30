@@ -4,6 +4,7 @@ title: "Welcome to My Blog!"
 date: 2026-04-02
 categories: [Blog, Personal]
 tags: [welcome, introduction]
+pin: true
 image:
   path: /assets/post-1.jpg
   alt: Welcome to my blog
