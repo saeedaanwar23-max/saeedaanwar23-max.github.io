@@ -12,7 +12,7 @@ image:
 # Assalam o Alaikum! 👋
 
 Welcome to my little corner of the internet! 
-I'm Saeeda Anwar, and this is my personal 
+I'm **Saeeda Anwar**, and this is my personal 
 space where I pour my thoughts, share my 
 experiences, and document the little things 
 I learn every single day. Life is full of 
