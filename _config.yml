@@ -140,7 +140,7 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
 
-paginate: 10
+paginate: 40
 
 # The base URL of your site
 
