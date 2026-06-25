@@ -4,6 +4,8 @@ title: "The Person Who Believed in Me Before I Believed in Myself"
 date: 2026-04-06
 categories: [Education, Inspiration]
 tags: [inspiration, teacher, support, family]
+image:
+  path: https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&h=400&fit=crop
 ---
 
 ## 1. A Presence That Changed Everything
