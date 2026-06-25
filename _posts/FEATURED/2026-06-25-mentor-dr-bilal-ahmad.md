@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Purpose"
-"A Mentor Who Changed My Perspective — Dr. Bilal Ahmad"
+A Mentor Who Changed My Perspective — Dr. Bilal Ahmad
 date: 2026-06-25
 categories: [Academic]
 tags: [dr-bilal-ahmad, uet-lahore, computer-engineering, programming-fundamentals, mentorship]
