@@ -1,11 +1,13 @@
 ---
-title: "A Mentor Who Changed My Perspective — Dr. Bilal Ahmad"
+title: "Portfolio Purpose"
+          "A Mentor Who Changed My Perspective — Dr. Bilal Ahmad"
 date: 2026-06-25
 categories: [Academic]
 tags: [dr-bilal-ahmad, uet-lahore, computer-engineering, programming-fundamentals, mentorship]
 image:
   path: https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=400&fit=crop
 ---
+
 
 ## Early Confusion About Our Degree
 
