@@ -16,8 +16,9 @@ timezone: Asia/Karachi
 
 title: "Saeeda Anwar" # the main title
 
-tagline: "Computer Engineering Student"
-description: "My Personal Blog" 
+tagline:
+description: My Personal Blog
+description: Computer Engineering student at UET Lahore, Faisalabad Campus — sharing academic experiences and student life.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -25,8 +26,6 @@ url: "https://saeedaanwar23-max.github.io"
 baseurl: ""
 github:
   username: saeedaanwar23-max
-twitter:
-  username: twitter_Saeedaanwar
 social:
  
   name: Saeeda Anwar
