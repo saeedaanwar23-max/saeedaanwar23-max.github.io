@@ -7,7 +7,7 @@ image:
   path: https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=400&fit=crop
 ---
 
-## Portfolio Purpose
+# Portfolio Purpose
 
 ## Early Confusion About Our Degree
 
