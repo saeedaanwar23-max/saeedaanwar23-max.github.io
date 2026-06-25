@@ -1,6 +1,5 @@
 ---
-title: "Portfolio Purpose"
-A Mentor Who Changed My Perspective — Dr. Bilal Ahmad
+title: "A Mentor Who Changed My Perspective — Dr. Bilal Ahmad"
 date: 2026-06-25
 categories: [Academic]
 tags: [dr-bilal-ahmad, uet-lahore, computer-engineering, programming-fundamentals, mentorship]
@@ -8,7 +7,7 @@ image:
   path: https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=400&fit=crop
 ---
 
-
+### Portfolio Purpose
 ## Early Confusion About Our Degree
 
 During the early weeks of university life at UET Lahore, Faisalabad Campus, one of the most common concerns among students in our class was about our degree program. We were enrolled in BSc Computer Engineering under SEC instead of PEC, and this created a lot of confusion and uncertainty. Many students, including myself, started questioning whether we were in the right field — worried about future jobs, degree value, and career options. This stress hit us right at the start of our university journey.
