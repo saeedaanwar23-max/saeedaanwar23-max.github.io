@@ -4,7 +4,8 @@ title: "My First Day of University — Nervous, Excited, and Completely Lost"
 date: 2026-04-05
 categories: [Education, Personal]
 tags: [first-day, college-life, new-beginnings]
-Path: https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=400&fit=crop
+image:
+  path: https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=400&fit=crop
 ---
 
 ## 1. The Morning That Felt Different
